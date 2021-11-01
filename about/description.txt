@@ -1,6 +1,6 @@
 Description: This project is a responsive website that manages a user’s desired meetup locations. A user can add a meetup along with its title, image, and description via a form. All the meetups are shown under the ‘All Meetups’ tab. These meetups under the ‘All Meetups’ tab are stored using Firebase. As well, users can favorite certain meetups which will appear under the ‘My Favorites’ tab which indicates the number of favorited meetups. The application is deployed using Heroku. 
 
-Website Link: https://react-meetups.herokuapp.com/
+Website Link: https://react-meetups-app.netlify.app/
 
 Technologies Used: ReactJS, Firebase, Heroku, Javascript, HTML, CSS
 
