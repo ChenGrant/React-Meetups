@@ -7,7 +7,7 @@ Description: This project is a responsive website that manages a user’s desire
 Website Link: https://react-meetups-app.netlify.app/
 
 QR Code: 
-![Alt Text]()
+![Alt Text](https://github.com/ChenGrant/React-Meetups/blob/f8df32858feb97ac0fa87251d7ea21fda1964637/about/qr-code.png)
 
 Video Demo: https://youtu.be/n9__0Mlq034
 
